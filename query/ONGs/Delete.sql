@@ -1,0 +1,1 @@
+DELETE FROM ongs WHERE nome = 'Criança Feliz'

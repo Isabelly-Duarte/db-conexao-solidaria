@@ -1,0 +1,1 @@
+INSERT INTO ongs (id, nome, cnpj, endereco, telefone, email, descricao) VALUES (1, 'Criança Feliz', '12456789000110', 'Rua B', '88999999999', 'criancafeliz@gmail.com', '')

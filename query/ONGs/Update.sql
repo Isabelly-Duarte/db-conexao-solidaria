@@ -1,0 +1,1 @@
+UPDATE ongs SET email = 'criancafeliz2@gmail.com' WHERE nome = 'Criança Feliz'
