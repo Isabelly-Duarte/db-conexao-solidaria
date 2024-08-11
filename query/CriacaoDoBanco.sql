@@ -35,9 +35,6 @@ CREATE TABLE Doacoes(
 	Tipo VARCHAR (20) NOT NULL,
 	IdOng INT NOT NULL,
 
-	FOREIGN KEY (IdOng) REFERENCES Ongs(Id)
-	
-
+	FOREIGN KEY (IdOng) REFERENCES Ongs(Id),
 	CHECK(Valor>=0.0)
-	
 )
