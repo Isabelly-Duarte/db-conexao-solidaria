@@ -1,0 +1,1 @@
+INSERT INTO doacoes (id, data, valor, tipo, idong, iddoador) VALUES (1, '2024-08-18', 2000.45, 'dinheiro', 1, 1)

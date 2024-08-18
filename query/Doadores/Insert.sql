@@ -1,0 +1,1 @@
+INSERT INTO doadores (id, nome, endereco, telefone, email) VALUES (1,'valdelice', 'ipaumirim sao luiz', '88997430697', 'valdelice@hotmail.com')

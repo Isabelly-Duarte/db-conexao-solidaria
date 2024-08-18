@@ -1,0 +1,1 @@
+INSERT INTO voluntarios (id, nome, endereco, telefone, email, nascimento, idong) VALUES (1, 'liduina', 'canauna', '88996364499', 'lidu@hotmail.com', '1968-05-23', 1)

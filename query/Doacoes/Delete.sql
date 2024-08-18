@@ -1,0 +1,1 @@
+DELETE FROM doacoes WHERE id = 1

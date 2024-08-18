@@ -1,0 +1,1 @@
+DELETE doadores WHERE id = 1

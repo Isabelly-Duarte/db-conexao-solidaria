@@ -1,0 +1,1 @@
+UPDATE doacoes SET valor = 4567.89 WHERE id = 1
