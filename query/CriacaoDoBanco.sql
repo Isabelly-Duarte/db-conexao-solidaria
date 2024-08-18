@@ -34,7 +34,9 @@ CREATE TABLE Doacoes(
 	Valor FLOAT DEFAULT 0.0, 
 	Tipo VARCHAR (20) NOT NULL,
 	IdOng INT NOT NULL,
+	IdDoador INT NOT NULL
 
 	FOREIGN KEY (IdOng) REFERENCES Ongs(Id),
+	FOREIGN KEY (IdDoador) REFERENCES Doadores(Id),
 	CHECK(Valor>=0.0)
 )
